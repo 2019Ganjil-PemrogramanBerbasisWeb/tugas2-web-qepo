@@ -64,7 +64,7 @@
 							Don’t have an account?
 						</span>
 
-						<a class="txt2" href="SING UP.HTML">
+						<a class="txt2" href="sign up.php">
 							Sign Up
 						</a>
 					</div>
