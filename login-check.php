@@ -3,7 +3,7 @@
 
 include 'conn.php';
 
-$username = $_POST['email'];
+$email = $_POST['email'];
 $password = $_POST['password'];
 
 
