@@ -7,7 +7,7 @@ include 'conn.php';
 	$password = $_POST['pass'];
 
 	$data = mysqli_query($conn,"SELECT * FROM login WHERE email='$email' and password='$password'");
-	$cek = mysqli_num_rows($data);
+	$cek = mysqli_num_rows($data,$conn);
 
 	if($cek > 0){
 		$_SESSION['email'] = $email;
