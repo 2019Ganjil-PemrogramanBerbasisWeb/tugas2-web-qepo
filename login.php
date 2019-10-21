@@ -28,7 +28,7 @@
 							<span aria-hidden="true">&times;</span>
 						</button>
 					</div><?php }?>
-				<form method='POST' action='login-check.php' class="login100-form validate-form">
+				<form action='login-check.php' class="login100-form validate-form" method='POST'>
 					<span class="login100-form-title p-b-26">
 						Welcome to 
 					</span>
