@@ -54,7 +54,7 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<button class="login100-form-btn" href="login.html">
+							<button class="login100-form-btn" href="login.php">
 								SIGN UP
 							</button>
 						</div>
@@ -65,7 +65,7 @@
 							Have an account?
 						</span>
 
-						<a class="txt2" href="login.html">
+						<a class="txt2" href="login.php">
 							Sign In
 						</a>
 					</div>
