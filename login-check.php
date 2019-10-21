@@ -7,7 +7,7 @@ $email = $_POST['email'];
 $password = $_POST['password'];
 
 
-$data = mysqli_query($link, " SELECT * FROM users WHERE email='$email' AND password='$password'");
+$data = mysqli_query($conn, " SELECT * FROM users WHERE email='$email' AND password='$password'");
 
 $cek = mysqli_num_rows($data);
 if($cek > 0)
