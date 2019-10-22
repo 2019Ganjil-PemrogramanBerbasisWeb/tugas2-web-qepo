@@ -308,19 +308,16 @@ include "rahasia.php";
         <div class="row">
           <div class="span4">
             <div class="widget">
-              <h5>Interesting pages</h5>
+              <h5>MADE WITH AI </h5>
               <ul class="regular">
-                <li><a href="#">About our company</a></li>
-                <li><a href="#">How we do all stuff</a></li>
-                <li><a href="#">Our recent works</a></li>
-                <li><a href="#">Press releases</a></li>
-                <li><a href="#">Get in touch with us</a></li>
+                <li>Rinnabel</li>
+                <li>Kecoak</li>
               </ul>
             </div>
           </div>
           <div class="span4">
             <div class="widget">
-              <h5>Flickr photostream</h5>
+              <h5>deFashion Gallery</h5>
               <div class="flickr-badge">
                 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=9&amp;display=random&amp;size=s&amp;layout=x&amp;source=user&amp;user=34178660@N03"></script>
 
@@ -332,13 +329,13 @@ include "rahasia.php";
             <div class="widget">
               <h5>How to find us</h5>
               <address>
-								<i class="icon-home"></i> <strong>Lumia company, Inc.</strong><br>
-								X104 Awesome ville, Suite AB12<br>
-								Jakarta 12420 Indonesia
+								<i class="icon-home"></i> <strong>Qepo company, Inc.</strong><br>
+								Jalan in saja dulu, no.1000<br>
+								Jawa Selatan 12345 Indonesia
 								</address>
               <p>
-                <i class="icon-phone"></i> (123) 456-7890 - (123) 555-8890<br>
-                <i class="icon-envelope-alt"></i> email@domainname.com
+                <i class="icon-phone"></i> 081234567890<br>
+                <i class="icon-envelope-alt"></i> Qepo@email.com
               </p>
             </div>
             <div class="widget">
@@ -358,19 +355,12 @@ include "rahasia.php";
           <div class="row">
             <div class="span6">
               <p>
-                &copy; Lumia - All right reserved
+                &copy; Qepo - All right reserved
               </p>
             </div>
             <div class="span6">
               <div class="pull-right">
                 <div class="credits">
-                  <!--
-                    All the links in the footer should remain intact.
-                    You can delete the links only if you purchased the pro version.
-                    Licensing information: https://bootstrapmade.com/license/
-                    Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Lumia
-                  -->
-                  Created by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                 </div>
               </div>
             </div>
