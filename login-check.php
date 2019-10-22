@@ -1,5 +1,6 @@
 <?php
-
+  error_reporting(0);
+  session_start();
 
 include 'conn.php';
 
@@ -12,7 +13,6 @@ $data = mysqli_query($conn, " SELECT * FROM users WHERE email='$email' AND passw
 $cek = mysqli_num_rows($data);
 if($cek > 0)
 {
-  session_start();
   $_SESSION['email'] = $email;
   $_SESSION['status'] = "Login";
   setcookie("mesage", "delete", time()-1); //hapus pesan setcookie
