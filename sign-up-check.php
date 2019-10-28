@@ -8,5 +8,5 @@
 	} else {
 		echo "Gagal";
 	}
-	header("location:homepage.html");
+	header("location:login.html");
 ?>
