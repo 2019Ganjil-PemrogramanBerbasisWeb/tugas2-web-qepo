@@ -151,7 +151,7 @@ include "rahasia.php";
                   Lanjutkan progress desain anda.
                 </p>
 
-                <a href="comingsoon_02/coming.html" class="btn btn-theme">Lanjutken</a>
+                <a href="upload_design.php" class="btn btn-theme">Lanjutken</a>
               </div>
 
               <div class="span9">
